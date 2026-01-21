@@ -22,6 +22,15 @@ The project focuses on being a **practical, working solution** for standard BLE 
 - Practical, real-world BLE implementation
 
 ---
+![photo_2026-01-21 12 26 22](https://github.com/user-attachments/assets/4748e455-7e23-4411-ae4d-d552a245c79a)
+![photo_2026-01-21 12 26 21](https://github.com/user-attachments/assets/5a021f0d-ca9a-461d-933c-bdb5be51931a)
+![photo_2026-01-21 12 26 20](https://github.com/user-attachments/assets/a22fe1e5-dcdf-4a06-a87d-cb43ae197062)
+
+## Demo Video
+
+[https://www.youtube.com/watch?v=VIDEO_ID](https://youtube.com/shorts/Fqf-MxSoJDk?feature=share)
+
+---
 
 ## 📱 Supported Platforms
 
