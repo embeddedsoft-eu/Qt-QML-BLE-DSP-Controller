@@ -28,7 +28,7 @@ The project focuses on being a **practical, working solution** for standard BLE 
 
 ## Demo Video
 
-[https://www.youtube.com/watch?v=VIDEO_ID](https://youtube.com/shorts/Fqf-MxSoJDk?feature=share)
+[youtube video](https://youtube.com/shorts/Fqf-MxSoJDk?feature=share)
 
 ---
 
