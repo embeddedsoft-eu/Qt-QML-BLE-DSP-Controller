@@ -1,0 +1,4 @@
+#Tue Jan 20 09:43:54 MSK 2026
+base.0=/Users/grabelu/Desktop/android qt /BLEInterface/android-build/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/grabelu/Desktop/android qt /BLEInterface/android-build/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml",
+            "map": [
+                {
+                    "source": "/Users/grabelu/Qt/5.13.1/android_arm64_v8a/src/android/java/res/values-ru/strings.xml",
+                    "from": {
+                        "startLines": "4,3,2,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "281,163,55,400",
+                        "endColumns": "118,117,107,93",
+                        "endOffsets": "395,276,158,489"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,174,292,400",
+                        "endColumns": "118,117,107,93",
+                        "endOffsets": "169,287,395,489"
+                    }
+                }
+            ]
+        }
+    ]
+}

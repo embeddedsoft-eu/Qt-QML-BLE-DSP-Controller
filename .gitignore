@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Qt / qmake
+.qmake.stash
+*.user
+Makefile*
+*.pro.user*
+
+# Build directories
+build-*/
+ios-build/
+cmake-build-*/
+
+# Qt Creator
+*.qmlc
+*.jsc
+
+# Android
+android-lib*.json
+
+# iOS
+*.xcworkspace
+*.xcodeproj
+DerivedData/
+
+# Misc
+*.log

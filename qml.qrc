@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Vector.png</file>
+        <file>Start.qml</file>
+        <file>Classic/CurrentSound.qml</file>
+        <file>Classic/Slider4.qml</file>
+        <file>Classic/Spin.qml</file>
+        <file>Classic/RoundBtnOnOff.qml</file>
+    </qresource>
+</RCC>
